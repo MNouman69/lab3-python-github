@@ -33,7 +33,7 @@ def exit_program(a):
 def calculations():
     i = 0
     while i != 7:
-        print("\n         Calculator-Menu         ")
+        print("\n        Python Calculator-Menu         ")
         print("Enter 1 for adding two number.")
         print("Enter 2 for subtracting two number.")  
         print("Enter 3 for multiplying two number.")
